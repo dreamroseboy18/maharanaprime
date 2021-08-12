@@ -40,8 +40,8 @@ Check your APP_SECRET and APP_ID in your Application created in Integration admi
 var Constants =
 {
 	THRESHOLD_BUFFER_TIME_MS  :  (12 * 60 * 60 * 1000) ,
-	APP_SECRET  :  "321842fb-7ffe-41ae-b8fa-30e356846f9f", 
-	APP_ID  :  "f63104a4-61ab-42d3-9e42-46f5e2406e50",
+	APP_SECRET  :  "f63104a4-61ab-42d3-9e42-46f5e2406e50", 
+	APP_ID  :  "321842fb-7ffe-41ae-b8fa-30e356846f9f",
 	PRIME_SERVER_ADDR  :  "https://captivateprime.adobe.com/", 
 	MY_APP_HOSTED_SERVER_BASE_ADDR  :  "https://dreamroseboy18.github.io",
 	SCOPE  :  "learner:read,learner:write,admin:read,admin:write",
