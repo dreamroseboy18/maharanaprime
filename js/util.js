@@ -40,11 +40,11 @@ Check your APP_SECRET and APP_ID in your Application created in Integration admi
 var Constants =
 {
 	THRESHOLD_BUFFER_TIME_MS  :  (12 * 60 * 60 * 1000) ,
-	APP_SECRET  :  "bf908d1f-6a90-4fd3-8c17-a04840bba1d6", 
-	APP_ID  :  "5595bd7e-d5b7-46f4-a631-af39991d12c8",
-	PRIME_SERVER_ADDR  :  "https://captivateprime.adobe.com/", 
-	MY_APP_HOSTED_SERVER_BASE_ADDR  :  "http://localhost:8085/",
-	SCOPE  :  "learner:read,learner:write",
+	APP_SECRET  :  "321842fb-7ffe-41ae-b8fa-30e356846f9f", 
+	APP_ID  :  "f63104a4-61ab-42d3-9e42-46f5e2406e50",
+	PRIME_SERVER_ADDR  :  "https://captivateprimeeu.adobe.com/", 
+	MY_APP_HOSTED_SERVER_BASE_ADDR  :  "https://dreamroseboy18.github.io",
+	SCOPE  :  "learner:read,learner:write,admin:read,admin:write",
 	OCODE_DATA  :  "state1",
 	SOURCE_FOLDER  :  "PrimeApp/",
 	MAIN_PAGE  :  "main.html",
