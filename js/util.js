@@ -43,7 +43,7 @@ var Constants =
 	APP_SECRET  :  "e42f9445-35c5-4876-8145-f3dbe2b7f709", 
 	APP_ID  :  "280c671d-c097-498b-be11-0c9853de6de7",
 	PRIME_SERVER_ADDR  :  "https://captivateprime.adobe.com/", 
-	MY_APP_HOSTED_SERVER_BASE_ADDR  : "https://dreamroseboy18.github.io/maharanaprime/",
+	MY_APP_HOSTED_SERVER_BASE_ADDR  : "https://dreamroseboy18.github.io",
 	SCOPE  :  "learner:read,learner:write",
 	OCODE_DATA  :  "state1",
 	SOURCE_FOLDER  :  "PrimeApp/",
