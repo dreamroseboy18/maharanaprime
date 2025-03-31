@@ -14,8 +14,8 @@ var FieldNames = {
 
 var Constants = {
 	THRESHOLD_BUFFER_TIME_MS  :  (12 * 60 * 60 * 1000) ,
-	APP_SECRET  :  "354e088d-2d43-484c-86d3-4ec6ed113dfd", 
-	APP_ID  :  "fd55f516-3e51-4834-af0b-c91368841a39",
+	APP_SECRET  :  "a43f11bd-aab9-4e7f-8ee4-5b8dcb51b8ee", 
+	APP_ID  :  "b913e5d3-fcbc-4316-aec7-8bb738f04b4f",
 	PRIME_SERVER_ADDR  :  "https://learningmanager.adobe.com/", 
 	MY_APP_HOSTED_SERVER_BASE_ADDR  :  "http://localhost:8085/",
 	SCOPE  :  "learner:read,learner:write,",
